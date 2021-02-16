@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=excelpractice',
+    'dsn' => 'mysql:host=localhost;dbname=excel-practice',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
