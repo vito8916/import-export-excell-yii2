@@ -188,5 +188,6 @@ phpunit.phar
 /backend/web/index-test.php
 /backend/web/robots.txt
 /config/db.php
+config/db.php
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,yii2,phpstorm,composer
